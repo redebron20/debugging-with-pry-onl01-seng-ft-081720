@@ -1,5 +1,5 @@
-def plus_two(num)
-	returns num + 2
+def plus_two(num = 3)
+	num + 2
 
 
 end
